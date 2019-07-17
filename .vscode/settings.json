@@ -1,0 +1,10 @@
+{
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "eslint.validate": ["javascript", "typescript"],
+  "window.zoomLevel": 0,
+  "git.ignoreMissingGitWarning": true,
+  "prettier.eslintIntegration": true
+}
